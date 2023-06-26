@@ -1,7 +1,7 @@
-### Hi there 👋
+### My name is 👋
 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300%&section=header&text=jiHun%20Ha&fontSize=80&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300%&section=header&text=JiHun%20Ha&fontSize=80&animation=twinkling)
 
 ------
 
