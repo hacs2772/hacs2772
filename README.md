@@ -1,4 +1,4 @@
-### My name is 👋
+### My name is 👋:grin::point_down:
 
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300%&section=header&text=JiHun%20Ha&fontSize=80&animation=twinkling)
@@ -29,7 +29,13 @@
 
 <h2>BLOGS</h2>
 
+GITHUB.IO : https://hacs2772.github.io/
 
+NAVER : https://blog.naver.com/hacs2772
+
+TSTORY : https://hacs2772.tistory.com/
+
+:snowflake:
 
 
 
