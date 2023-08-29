@@ -25,6 +25,9 @@
 
 **hacs2772/hacs2772** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gkwlgns120)](https://solved.ac/gkwlgns120/)
 ------
 
 <h2>BLOGS</h2>
