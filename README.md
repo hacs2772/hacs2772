@@ -27,7 +27,7 @@
 
 
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gkwlgns120)](https://solved.ac/gkwlgns120/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hacs)](https://solved.ac/hacs/)
 ------
 
 <h2>BLOGS</h2>
