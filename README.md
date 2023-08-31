@@ -17,6 +17,7 @@
 <h2>Most Used languages</h2>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hacs2772&layout=compact"><br><br>
+![](./profile-3d-contrib/profile-gitblock.svg)
 
 <h2>Git Stats</h2>
 <img src="https://github-readme-stats.vercel.app/api?username=hacs2772&show_icons=true">
@@ -40,8 +41,6 @@ NAVER : https://blog.naver.com/hacs2772
 TSTORY : https://hacs2772.tistory.com/
 
 :snowflake:
-
-![](./profile-3d-contrib/profile-green-animate.svg)
 
 Here are some ideas to get you started:
 
