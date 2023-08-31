@@ -27,7 +27,8 @@
 
 
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hacs)](https://solved.ac/hacs/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hacs)](https://solved.ac/hacs/) 
+<img src="http://mazandi.herokuapp.com/api?handle=hacs&theme=dark"/>
 ------
 
 <h2>BLOGS</h2>
