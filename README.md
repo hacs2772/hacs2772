@@ -16,7 +16,6 @@
 ------
 <h2>Most Used languages</h2>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hacs2772&layout=compact"><br><br>
 ![](./profile-3d-contrib/profile-gitblock.svg)
 
 <h2>Git Stats</h2>
